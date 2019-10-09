@@ -13,5 +13,11 @@ public class FirstClass {
 	
 
 	}
+	
+	public void add()
+	{
+	int u,v, w;
+		w = u+v;
+	}
 
 }
